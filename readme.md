@@ -1,6 +1,6 @@
 # My Awards & Academic achievments
 ## ML Stepik certifiacte
-### This diploma was established for Stepik Machine Learning introductionary course by carpov.courses team. Here I just acquired some preliminary skills, like what's the ML for, which tools are essential & met up with Decision Trees and Random Forests models, including the quality assesment and hyperparameters ssearch techniques. Likewise, the pandas & sklearn packages were studied
+### This diploma was acquired for Stepik Machine Learning introductionary course by carpov.courses team. Here I just acquired some preliminary skills, like what's the ML for, which tools are essential & met up with Decision Trees and Random Forests models, including the quality assesment and hyperparameters ssearch techniques. Likewise, the pandas & sklearn packages were studied
 ## Netology Neural Networks Implementation Intensive
 ### Basic approaches of NN and AI were analyzed and implemented. Noting more
 ## Yandex Algorithms November Training Session
