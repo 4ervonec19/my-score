@@ -9,7 +9,7 @@
 ##### [Тренировоки по Алгоритмам от Яндекс](Yandex_Training_Session_November_2023.pdf)
 * Сертификат за участие в соревнованиях по программированию. Были изучены и отработаны различные алгоритмы, такие как обработка строк, обработка графов (алгоритм Дейкстры) и техники сортировки массивов.
 
-##### [Сертификат eCup от Ozon](Участник Матчинг.pdf)
+##### [Сертификат eCup от Ozon](my-score/Участник Матчинг.pdf)
 * Сертификат за участие в соревновании по мэтчингу товаров от Ozon Tech. Попытался реализовать анализ атрибутов товаров с использованием BERT и Metric Learning. В результате наша команда вошла в топ-50.
 
 ##### Выпускник "VK Education" МГТУ
@@ -28,7 +28,7 @@
 * Basic approaches of NN and AI were analyzed and implemented. Nothing groundbreaking...
 ##### [Yandex Algorithms November Training Session](Yandex_Training_Session_November_2023.pdf)
 * Certificate for competetive programming challenges. Bunch of Algorithms were studied and trained such as Strings processing, Graphs processing (Dijkstra Algorithm), Enumerating algorithms and arrays sorting techniques.
-##### [Ozon eCup certificate](Участник Матчинг.pdf)
+##### [Ozon eCup certificate](my-score/Участник Матчинг.pdf)
 * Certificate for participating in products matching from Ozon Tech. Tried to implement attributes analysis using BERT and Metric Learning. Top-50 as a result for our team
 ##### "VK Education" BSMTU alumni
 * Diploma of "VK Education" ML and AI 1-year course. 1st place in graduation project competition. Theme of final project is "System of automatic test generation fot the Python code development". My responsibility area is Data Engineering and Model Research.
