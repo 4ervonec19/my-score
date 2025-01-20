@@ -5,4 +5,5 @@
 * Basic approaches of NN and AI were analyzed and implemented. Nothing groundbreaking...
 ##### Yandex Algorithms November Training Session
 * Certificate for competetive programming challenges. Bunch of Algorithms were studied and trained such as Strings processing, Graphs processing (Dijkstra Algorithm), Enumerating algorithms and arrays sorting techniques.
-
+##### Ozon eCup certificate
+* Certificate for participating in products matching from Ozon Tech. Tried to implement attributes analysis using BERT and Metric Learning. Top-50 as a result for our team
